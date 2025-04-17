@@ -9,7 +9,7 @@ env:
   LOCATION: JapanEast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e765c61f-0786-4646-b28e-3e4f276399a8
-  WEBAPP-NAME: eshoponweb-webapp-kojima
+  WEBAPP-NAME: eshoponweb-webapp-kojima0417
 
 
 jobs:
